@@ -9,8 +9,6 @@ I'm Mads, a software engineer in Copenhagen. I've spent five years building fron
 
 In my own time I build the layer underneath. A web framework, and the tooling that lets AI agents write code you can trust.
 
-<iframe src="https://github.com/sponsors/MadsHaerup/card" title="Sponsor MadsHaerup" height="225" width="600" style="border: 0;"></iframe>
-
 ## Building
 
 ### [Avalon](https://useavalon.dev)
